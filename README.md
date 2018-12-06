@@ -17,6 +17,6 @@ This is a submission for an activity for the Data Science I course (IMD0905) on 
 
 ## Authors
 
-* **Ivanovitch Medeiros Dantas da Silva** - *Made all the questions and texts for every notebook.* - [ivan@imd.ufrn.br](ivan@imd.ufrn.br)
+* **Dr. Ivanovitch Medeiros Dantas da Silva** - *Course lecturer. Made all the questions and texts for every notebook.* - [ivan@imd.ufrn.br](ivan@imd.ufrn.br)
 
-* **Francisco de Paiva Marques Netto** - *Answered all the questions on every notebook.* - [pvnetto1@gmail.com](pvnetto1@gmail.com)
+* **Francisco de Paiva Marques Netto** - *Course student. Answered all the questions on every notebook.* - [pvnetto1@gmail.com](pvnetto1@gmail.com)
